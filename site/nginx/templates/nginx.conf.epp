@@ -23,4 +23,4 @@ keepalive_timeout 65;
 # The default server is in conf.d/default.conf
 include <%= $confdir %>/conf.d/*.conf;
 
-}
+} 
