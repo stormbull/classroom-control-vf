@@ -13,4 +13,4 @@
 <p>My uptime is <%= $uptime_seconds %> seconds.</p>
 <p>This is a <%= $osfamily %> system.</p>
 </body>
-</html>
+</html> 
